@@ -1,0 +1,43 @@
+commit 89fd9caa4afbc81cf0d9f09949744bda64023d25
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 13:49:04 2021 +0200
+
+    Added text
+
+commit 0f821e419759a4847ab5b11c3073e55e55cc5ba3
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 13:48:12 2021 +0200
+
+    Readme added
+
+commit 056762582325ab797b092adbd4a2a7b749e3a268
+Merge: b489916 fd781b6
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 13:38:17 2021 +0200
+
+    Merge branch 'login'
+    Dodano logowanie
+
+commit fd781b695af2b36db47a1e034523b6b4f82a814a
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 13:37:31 2021 +0200
+
+    Logowanie
+
+commit b4899160c7e0a2873197bc75d68978f3418122f7
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 13:36:00 2021 +0200
+
+    Dodane diry
+
+commit 1fe0a4084eac3fbf5ef9923a6ae78f3035eebf49
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 13:24:11 2021 +0200
+
+    Modyfikacja app.js
+
+commit bab12688bac496897d9f8b6a3be9cdd28df96a6b
+Author: Szymon Jakubiak <szymon.jakubiak@inetum.world>
+Date:   Tue Apr 6 12:55:49 2021 +0200
+
+     Initial commit
