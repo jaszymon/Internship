@@ -1,0 +1,1 @@
+PS C:\Users\sjak1\Desktop> .\skrypt2_param.ps1 -Nazwa_aplikacji1 "GoogleChrome" -Nazwa_aplikacji2 "javaruntime" -Nazwa_aplikacji3 "7zip" -Nazwa_aplikacji4 "dotnet-5.0-sdk" -Nazwa_aplikacji5 "python"
