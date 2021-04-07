@@ -1,0 +1,1 @@
+{"ConnectionStrings": {"ConnectionString": [{"DataSource": "dejtasors", "UID": "ID", "PWD": "PA$$", "DATABASE": "Nazwa"}, {"DataSource": "inny_dejtasors", "UID": "inne_ID", "PWD": "inny_PA$$", "DATABASE": "inna_Nazwa"}]}, "Imie": "Jan", "Nazwisko": "Kowalski", "Wiek": "25", "folders": [{"folder": "Private Folder 1"}, {"folder": "Private Folder 2"}]}
