@@ -126,3 +126,18 @@ resource "azurerm_subnet_network_security_group_association" "vnet2sub3" {
   subnet_id                 = azurerm_subnet.terraformsubnet3.id
   network_security_group_id = azurerm_network_security_group.terraformSG3.id
 }
+
+
+resource "azurerm_virtual_network_peering" "peeringvnet1tovnet2" {
+  name                      = "peer1to2"
+  resource_group_name       = azurerm_resource_group.terraformRG.name
+  virtual_network_name      = azurerm_virtual_network.terraformvnet1.name
+  remote_virtual_network_id = azurerm_virtual_network.terraformvnet2.id
+}
+
+resource "azurerm_virtual_network_peering" "peeringvnet2tovnet1" {
+  name                      = "peer2to1"
+  resource_group_name       = azurerm_resource_group.terraformRG.name
+  virtual_network_name      = azurerm_virtual_network.terraformvnet2.name
+  remote_virtual_network_id = azurerm_virtual_network.terraformvnet1.id
+}
