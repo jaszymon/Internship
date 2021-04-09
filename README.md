@@ -7,7 +7,7 @@
 
 3. [skrypt3](https://github.com/jaszymon/Internship/blob/master/skrypt3.sh)
 	- [skrypt3_na_funkcjach_oraz_parametry](https://github.com/jaszymon/Internship/blob/master/skrypt3_fn.sh)
-		- [sktypt3_tree](https://github.com/jaszymon/Internship/blob/master/skrypt3_fn_tree.sh)
+	- [sktypt3_tree](https://github.com/jaszymon/Internship/blob/master/skrypt3_fn_tree.sh)
 		
 4. [skrypt4](https://github.com/jaszymon/Internship/blob/master/skrypt4.ps1)
 	- [skrypt4 sprametryzowany](https://github.com/jaszymon/Internship/blob/master/skrypt4_param.ps1)
