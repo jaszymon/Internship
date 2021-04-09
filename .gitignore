@@ -1,3 +1,4 @@
 log.txt
 /dir2
 terraform_config/.terraform
+terraform_config_na_zmiennych/.terraform
